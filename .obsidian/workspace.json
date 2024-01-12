@@ -1,0 +1,179 @@
+{
+  "main": {
+    "id": "376f92864c3867de",
+    "type": "split",
+    "children": [
+      {
+        "id": "0aa71d73e49125b4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "51a36c0c872bff69",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "test/test.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bd3e4a9e630a2866",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "test/test1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1eeb9d7cbeee4666",
+    "type": "split",
+    "children": [
+      {
+        "id": "bc807d59434d889b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "29d511d06699893a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5a19dfb9beb8c011",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0b87c7e794b69260",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5244deba6bf7fee1",
+    "type": "split",
+    "children": [
+      {
+        "id": "ae4765380c280972",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9f2b2782d41ceb0f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "test/test.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "cc6a77869bd38ea7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "test/test.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "cd717ac104e8823e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "44091fbc42169122",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "test/test.md"
+              }
+            }
+          },
+          {
+            "id": "439612a6fd7120a7",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "29d511d06699893a",
+  "lastOpenFiles": [
+    "test/test.md",
+    "test/test1.md",
+    "未命名",
+    "code/xxx/Welcome.md",
+    "test",
+    "code/xxx/2024-01-11.md"
+  ]
+}

@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "2378d1dbc9919a0b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "test3/test4.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "test/test3.md",
+                "file": "test3/test4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "test/test3.md",
+                "file": "test3/test4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "test/test3.md"
+                "file": "test3/test4.md"
               }
             }
           },
@@ -181,10 +193,11 @@
   },
   "active": "29d511d06699893a",
   "lastOpenFiles": [
-    "test/test.md",
     "test/test3.md",
+    "test3/test4.md",
+    "test3",
+    "test/test.md",
     "test/test1.md",
-    "未命名",
     "code/xxx/Welcome.md",
     "test",
     "code/xxx/2024-01-11.md"
